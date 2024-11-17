@@ -1,0 +1,14 @@
+COLUMNS:
+  X1: float64
+  X2: float64
+  X3: float64
+  X4: float64
+  X5: float64
+  X6: int64
+  X7: float64
+  X8: int64
+  Y1: float64
+  Y2: float64
+
+TARGET_COLUMN:
+  name: Y1
