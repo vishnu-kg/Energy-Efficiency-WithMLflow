@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Energy-Efficiency-WithMLflow/mlruns/0/a82cd2fafbf74f6a878c165e824349dd/artifacts
+end_time: 1731902974953
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a82cd2fafbf74f6a878c165e824349dd
+run_name: defiant-slug-42
+run_uuid: a82cd2fafbf74f6a878c165e824349dd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731902974928
+status: 4
+tags: []
+user_id: HP

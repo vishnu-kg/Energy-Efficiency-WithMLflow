@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Energy-Efficiency-WithMLflow/mlruns/0/86422617b5e5467385be469dc8a6588b/artifacts
+end_time: 1731903840769
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86422617b5e5467385be469dc8a6588b
+run_name: beautiful-ox-153
+run_uuid: 86422617b5e5467385be469dc8a6588b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731903837425
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Energy-Efficiency-WithMLflow/mlruns/0/6fd655def1a042ec858be91940cd946f/artifacts
+end_time: 1731903083442
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6fd655def1a042ec858be91940cd946f
+run_name: crawling-fish-908
+run_uuid: 6fd655def1a042ec858be91940cd946f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731903079540
+status: 3
+tags: []
+user_id: HP

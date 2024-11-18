@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Energy-Efficiency-WithMLflow/mlruns/0/e940a2c467f74d3299b78932da70c357/artifacts
+end_time: 1731902833342
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e940a2c467f74d3299b78932da70c357
+run_name: bouncy-snail-566
+run_uuid: e940a2c467f74d3299b78932da70c357
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731902833318
+status: 4
+tags: []
+user_id: HP

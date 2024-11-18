@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Energy-Efficiency-WithMLflow/mlruns/0/df15fedc896b4410a4c21ed07dede4c2/artifacts
+end_time: 1731904090117
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: df15fedc896b4410a4c21ed07dede4c2
+run_name: gifted-hare-692
+run_uuid: df15fedc896b4410a4c21ed07dede4c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731904086767
+status: 3
+tags: []
+user_id: HP
