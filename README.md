@@ -1,19 +1,35 @@
-# Energy-Efficiency-WithMLflow
+# Energy Efficiency Prediction with MLflow 🌍
+
+## 📸 Project UI Screenshot
+
+![alt text](image.png)
+
+## 🔍 Project Overview
+
+This project leverages machine learning to predict the **Heating Load** of a building based on various building characteristics. The goal is to help in understanding how building features such as **Surface Area**, **Wall Area**, and others influence the energy required for heating, ultimately contributing to energy efficiency predictions.
+
+
+### 📊 Features Used for Prediction
+- **X1 Relative Compactness**: The compactness of the building's design.
+- **X2 Surface Area**: The total surface area of the building.
+- **X3 Wall Area**: The area of the building's walls.
+- **X4 Roof Area**: The area of the building's roof.
+- **X5 Overall Height**: The height of the building.
+- **X6 Orientation**: The orientation of the building (e.g., north, south).
+- **X7 Glazing Area**: The area of windows in the building.
+- **X8 Glazing Area Distribution**: The distribution of the glazing (windows) across the building's surfaces.
 
 
 
-
-
-
-# How to run?
-### STEPS:
+## 🛠️ How to Run the Project
+### STEP 1: Clone the Repository
 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Machine-Learning-Project-with-MLflow
+https://github.com/vishnu-kg/Energy-Efficiency-WithMLflow
 ```
-### STEP 01- Create a conda environment after opening the repository
+### STEP 02- Create a conda environment after opening the repository
 
 ```bash
 conda create -n mlproj python=3.8 -y
@@ -24,7 +40,7 @@ conda activate mlproj
 ```
 
 
-### STEP 02- install the requirements
+### STEP 03- install the requirements
 ```bash
 pip install -r requirements.txt
 ```
@@ -54,7 +70,7 @@ open up you local host and port
 [dagshub](https://dagshub.com/)
 
 import dagshub
-dagshub.init(repo_owner='vishnukg836', repo_name='Energy-Efficiency-WithMLflow', mlflow=True)
+dagshub.init(repo_owner='  ', repo_name='Energy-Efficiency-WithMLflow', mlflow=True)
 
 
 python script.py -->
@@ -65,9 +81,9 @@ Run this to export as env variables:
 
 export MLFLOW_TRACKING_URI=https://dagshub.com/vishnukg836/Energy-Efficiency-WithMLflow.mlflow
 
-export MLFLOW_TRACKING_USERNAME=vishnukg836
+export MLFLOW_TRACKING_USERNAME=################
 
-export MLFLOW_TRACKING_PASSWORD=b379396eaf53ba3d38c3e8e3fe2ba40aaebfd34c
+export MLFLOW_TRACKING_PASSWORD=#################
 
 ```
 
@@ -106,7 +122,7 @@ export MLFLOW_TRACKING_PASSWORD=b379396eaf53ba3d38c3e8e3fe2ba40aaebfd34c
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 537124977497.dkr.ecr.eu-north-1.amazonaws.com/mlprojecr
+    - Save the URI: ############################
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -142,7 +158,7 @@ export MLFLOW_TRACKING_PASSWORD=b379396eaf53ba3d38c3e8e3fe2ba40aaebfd34c
 
     AWS_REGION = us-east-1
 
-    AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
+    AWS_ECR_LOGIN_URI = demo>>  
 
     ECR_REPOSITORY_NAME = simple-app
 
